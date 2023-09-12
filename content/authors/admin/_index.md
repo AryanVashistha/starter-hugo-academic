@@ -53,7 +53,7 @@ social:
     link: https://www.linkedin.com/in/aryan-vashistha/
   - icon: facebook
     icon_pack: fab
-    link: https://www.facebook.com/nikhil.singhujjwal.1/
+    link: https://www.facebook.com/aryan.vashistha.1426
 
     
   # Link to a PDF of your resume/CV.
@@ -70,5 +70,6 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Aryan Vashistha is a final year student, here at IIT Mandi, pursuing his Bacheors (B.Tech.) in Electrical Engineering. He is a fast-learner and believes to work effectively and efficiently in a fast-paced environment. His interests include problem solving, analysing and effectively completing challenging tasks. He is an avid nature-lover, trying to make an impact!
 {style="text-align: justify;"}
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
