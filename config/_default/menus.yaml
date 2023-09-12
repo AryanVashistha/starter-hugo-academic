@@ -13,7 +13,9 @@ main:
   - name: Connect
     url: '#Connect'
     weight: 30
-
+  - name: CV
+    url: uploads/resume.pdf
+    weight: 70
 
 
 # Link to a PDF of your resume/CV from the menu.
