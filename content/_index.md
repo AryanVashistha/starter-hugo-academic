@@ -62,14 +62,14 @@ sections:
               Automation and Data Analysis in Spotfire Software with Python and IronPython:
               * Automated the seamless integration of Datalog files from the tester into the Spotfire software, effectively handling broken files in real-time. Conducted comprehensive data analysis of Datalog files utilizing Python and IronPython scripts.
               * Designed and developed a user-friendly graphical interface (GUI) tool using Tkinter and Python for efficient data analysis of diverse Datalog files. In engineering development, this tool can be continuously fed log files as and when any data is collected and continue to have an idea of marginalities/instabilities or data distributions during development. In production data analysis, the tool can be used specifically to understand the yield losses, generates plots for visual analysis of data, site–site skews or lot–lot skews, CPK, understand the data distributions for high volumes.    
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Student-counsellor and mentor
+          company: Filo
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Remote
+          date_start: '2020-10-01'
+          date_end: '2021-03-31'
+          description: Worked as a Student-counsellor and mentor during 1st year in an Edtech company led by IIT Kgp students helping more than 400 students with the challanges faced by them during their course of preperation of JEE
     design:
       columns: '2'
   - block: accomplishments
