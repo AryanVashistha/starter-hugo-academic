@@ -15,28 +15,28 @@ sections:
     content:
       title: Skills
       items:
-        - description: -
+        - description: 
           icon: chart-line
           icon_pack: fas
           name: Statistics/Data Science
-        - description: -
+        - description: 
           icon: calculator
           icon_pack: fas
           name: Mathematical Problem Solving   
-        - description: -
+        - description: 
           icon: code
           icon_pack: fas
           name: C/C++, Python
-        - description: -
+        - description: 
           icon: git-alt
           icon_pack: fab
           name: Git
-        - description: -
+        - description: 
           icon: terminal
           icon_pack: fas
           name: Web Dev 
         - name: Photography
-          description: -
+          description: 
           icon: camera-retro
           icon_pack: fas
   - block: experience
