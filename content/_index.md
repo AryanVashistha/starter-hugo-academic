@@ -27,6 +27,30 @@ sections:
           description: 10%
           icon: camera-retro
           icon_pack: fas
+        - description: 
+          icon: chart-line
+          icon_pack: fas
+          name: Statistics
+        - description: 
+          icon: calculator
+          icon_pack: fas
+          name: Mathematical Problem Solving   
+        - description: 
+          icon: code
+          icon_pack: fas
+          name: C/C++, Python
+        - description: 
+          icon: git-alt
+          icon_pack: fab
+          name: Git
+        - description: 
+          icon: terminal
+          icon_pack: fas
+          name: Web Dev 
+        - description: 
+          icon: chart-pie
+          icon_pack: fas
+          name: Analysis
   - block: experience
     content:
       title: Experience
