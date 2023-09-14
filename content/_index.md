@@ -15,34 +15,30 @@ sections:
     content:
       title: Skills
       items:
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
-        - description: 
+        - description: -
           icon: chart-line
           icon_pack: fas
-          name: Statistics
-        - description: 
+          name: Statistics/Data Science
+        - description: -
           icon: calculator
           icon_pack: fas
           name: Mathematical Problem Solving   
-        - description: 
+        - description: -
           icon: code
           icon_pack: fas
           name: C/C++, Python
-        - description: 
+        - description: -
           icon: git-alt
           icon_pack: fab
           name: Git
-        - description: 
+        - description: -
           icon: terminal
           icon_pack: fas
           name: Web Dev 
-        - description: 
-          icon: chart-pie
+        - name: Photography
+          description: -
+          icon: camera-retro
           icon_pack: fas
-          name: Analysis
   - block: experience
     content:
       title: Experience
@@ -55,19 +51,18 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
+        - title: Engineer Internship
+          company: Texas Instruments
+          company_url: 'https://www.ti.com/'
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          location: Bangalore, Karnataka
+          date_start: '2023-01-01'
+          date_end: '2023-07-16'
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+              Automation and Data Analysis in Spotfire Software with Python and IronPython::
+              * Automated the seamless integration of Datalog files from the tester into the Spotfire software, effectively handling broken files in real-time. Conducted comprehensive data analysis of Datalog files utilizing Python and IronPython scripts.
+              * Designed and developed a user-friendly graphical interface (GUI) tool using Tkinter and Python for efficient data analysis of diverse Datalog files. In engineering development, this tool can be continuously fed log files as and when any data is collected and continue to have an idea of marginalities/instabilities or data distributions during development. In production data analysis, the tool can be used specifically to understand the yield losses, generates plots for visual analysis of data, site–site skews or lot–lot skews, CPK, understand the data distributions for
+high volumes.    
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
