@@ -59,10 +59,9 @@ sections:
           date_start: '2023-01-01'
           date_end: '2023-07-16'
           description: |2-
-              Automation and Data Analysis in Spotfire Software with Python and IronPython::
+              Automation and Data Analysis in Spotfire Software with Python and IronPython:
               * Automated the seamless integration of Datalog files from the tester into the Spotfire software, effectively handling broken files in real-time. Conducted comprehensive data analysis of Datalog files utilizing Python and IronPython scripts.
-              * Designed and developed a user-friendly graphical interface (GUI) tool using Tkinter and Python for efficient data analysis of diverse Datalog files. In engineering development, this tool can be continuously fed log files as and when any data is collected and continue to have an idea of marginalities/instabilities or data distributions during development. In production data analysis, the tool can be used specifically to understand the yield losses, generates plots for visual analysis of data, site–site skews or lot–lot skews, CPK, understand the data distributions for
-high volumes.    
+              * Designed and developed a user-friendly graphical interface (GUI) tool using Tkinter and Python for efficient data analysis of diverse Datalog files. In engineering development, this tool can be continuously fed log files as and when any data is collected and continue to have an idea of marginalities/instabilities or data distributions during development. In production data analysis, the tool can be used specifically to understand the yield losses, generates plots for visual analysis of data, site–site skews or lot–lot skews, CPK, understand the data distributions for high volumes.    
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
